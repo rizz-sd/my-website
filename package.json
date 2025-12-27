@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rizz-sd.github.io/my-website",
+  "homepage": "https://personal.missrizz.publicvm.com/my-website",
   "name": "my-info-app",
   "version": "0.1.0",
   "private": true,
@@ -44,6 +44,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
